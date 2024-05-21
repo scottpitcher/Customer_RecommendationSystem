@@ -1,3 +1,5 @@
+# Avoid uploading venv
 *.venv
 
+# Avoid uploading data
 data/*
