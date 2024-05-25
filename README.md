@@ -10,7 +10,7 @@ In model tuning, different combinations of linear layers, embedding dimensions, 
 ### Medium Article: https://medium.com/@scottpitcher_/8e6f20e15477
 
 ## 📊 Data Source
-link: https://grouplens.org/datasets/movielens/
+- link: https://grouplens.org/datasets/movielens/
 
 used the *ml-latest-small.zip* file instead of the main .zip file to save storage.
 
