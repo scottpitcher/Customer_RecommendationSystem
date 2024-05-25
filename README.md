@@ -16,5 +16,5 @@ used the *ml-latest-small.zip* file instead of the main .zip file to save storag
 
 ## 👥 Connect with Me
 - linkedin: https://www.linkedin.com/in/scottpitcher1
-- Medium: https://medium.com/@scottpitcher\_
+- Medium: <link> https://medium.com/@scottpitcher_ <link>
 
