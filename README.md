@@ -7,7 +7,7 @@ In model tuning, different combinations of linear layers, embedding dimensions, 
 2. Had the same ratings distribution as the original data
 
 *All code in this repository was written by me*
-### Medium Article: Pending...
+### Medium Article: https://medium.com/@scottpitcher_/intermediate-machine-learning-project-customer-recommendation-system-8e6f20e15477
 
 ## 📊 Data Source
 - link: https://grouplens.org/datasets/movielens/
